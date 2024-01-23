@@ -8,8 +8,6 @@
 
 - 🦾 En momentos estoy perfeccionándome en React
 
-- ⚡ Fun fact: I use tabs over spaces
-
 - ❓ Si un árbol se cae en un bosque y nadie lo sube a youtuve. ¿Realmente paso? 🤔
 
 <br/>
