@@ -1,32 +1,25 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>
 
-### <div align="center">Soy christian Frontend Developer  🚀</div>  
-  
+### <div align="center">Soy christian Frontend Developer 🚀</div>
 
-- 🔭 Estoy en la busqueda de mi prime trabajo en el mundo IT  
-  
+- 🔭 Estoy en la busqueda de mi prime trabajo en el mundo IT
 
-- 🦾 En momentos estoy perfeccionándome en React  
-  
+- 🦾 En momentos estoy perfeccionándome en React
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Fun fact: I use tabs over spaces
 
--  ❓ Si un árbol  se cae en un bosque y nadie lo sube a youtuve. ¿Realmente paso? 🤔  
-  
+- ❓ Si un árbol se cae en un bosque y nadie lo sube a youtuve. ¿Realmente paso? 🤔
 
-<br/>  
+<br/>
 
+## My Skill Set
 
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" align="center" width="50%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -38,46 +31,38 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
 
+</td></tr></table>
 
-</td></tr></table>  
+<br/>
 
-<br/>  
+## Connect with me
 
-
-## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/christianmart%C3%ADpech/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MartiPech&show_icons=true&theme=dark#gh-dark-mode-only" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MartiPech&show_icons=true&theme=dark#gh-dark-mode-only" align="center" /></div>
 
+<br/>
 
-<br/>  
+## Recent Blog Posts
 
+<br/>
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MartiPech&&style=flat-square" align="center" />
-</div>  
-  
+</div>
 
-<br/>  
-
+<br/>
 
 <br />
+
 
